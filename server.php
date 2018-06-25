@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json');
 $dsn = "mysql:dbname=victory;host=127.0.0.1";
-$user = "korman";
+$user = "root";
 $password = "";
 
 try{
